@@ -4,7 +4,7 @@
 
 --to be added:
     --lasers break items marked for deconstruction in range
-        --returning the right amount of filament, or the original item if it wasn't printed
+        --returning nothing, or the original item if item wasn't printed
     --fix on_player_mined_entity
     --fix on_robot_mined_entity
     --lasers place non printable items if you have the item in your inventory

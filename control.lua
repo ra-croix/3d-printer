@@ -92,7 +92,7 @@ end)
 
 script.on_event(defines.event.on_player_mined_entity, function(event)
     if plastic_entities[entity.unit_number] then
-        event.buffer.clear() 
+        event.buffer.clear() --return nothing on purpose to balance mod
         plastic_entities[entity.unit_number] = nil
     end
 end)

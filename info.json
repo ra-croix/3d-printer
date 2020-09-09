@@ -1,0 +1,9 @@
+{
+    "name": "3d-printer",
+    "version": "0.1.0",
+    "title": "3D Printer",
+    "author": "Croix",
+    "factorio_version": "1.0",
+    "dependencies": ["base"],
+    "description": "adds a 3D printer to construct items for you wherever and whenever"
+  }
